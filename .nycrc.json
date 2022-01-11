@@ -1,0 +1,4 @@
+{
+  "exclude": "test",
+  "include": "app.js"
+}
